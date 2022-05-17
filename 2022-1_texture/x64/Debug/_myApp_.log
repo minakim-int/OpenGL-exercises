@@ -1,0 +1,12 @@
+﻿  _myApp_.cpp
+C:\Users\creator\Downloads\CGP2022 (1)\CGP2022\include\sb7.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\creator\Downloads\CGP2022 (1)\CGP2022\include\sb7ext.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\creator\Downloads\CGP2022 (1)\CGP2022\include\vmath.h(1022,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\creator\Downloads\CGP2022 (1)\CGP2022\_myApp_\_myApp_.cpp(151,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\creator\Downloads\CGP2022 (1)\CGP2022\_myApp_\_myApp_.cpp(180,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\creator\Downloads\CGP2022 (1)\CGP2022\_myApp_\_myApp_.cpp(199,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  _myApp_.vcxproj -> C:\Users\creator\Downloads\CGP2022 (1)\CGP2022\bin\_myApp_.exe
